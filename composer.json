@@ -10,10 +10,10 @@
     ],
     "require": {
         "php": "^8.1",
-        "quantaquirk/collections": "^10.0",
-        "quantaquirk/contracts": "^10.0",
-        "quantaquirk/macroable": "^10.0",
-        "quantaquirk/support": "^10.0",
+        "quantaquirk/collections": "^1.0.0",
+        "quantaquirk/contracts": "^1.0.0",
+        "quantaquirk/macroable": "^1.0.0",
+        "quantaquirk/support": "^1.0.0",
         "symfony/process": "^6.2"
     },
     "autoload": {
