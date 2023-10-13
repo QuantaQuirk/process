@@ -1,0 +1,33 @@
+{
+    "name": "quantaquirk/process",
+    "description": "The QuantaQuirk Process package.",
+        "license": "proprietary",
+    "authors": [
+        {
+            "name": "Tomáš Selič (Smisch-DEV)",
+            "email": "contact@smisch.sk"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "quantaquirk/collections": "^10.0",
+        "quantaquirk/contracts": "^10.0",
+        "quantaquirk/macroable": "^10.0",
+        "quantaquirk/support": "^10.0",
+        "symfony/process": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "QuantaQuirk\\Process\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "10.x-dev"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev"
+}
